@@ -1,0 +1,14 @@
+{
+  "name": "electron_tut",
+  "version": "1.0.0",
+  "description": "Electron Learning Desktop App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },  
+  "author": "Saharsh Gaurav",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.7"
+  }
+}
